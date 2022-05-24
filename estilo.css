@@ -1,0 +1,39 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body{
+    background-color: rgb(189, 189, 189);
+    text-align: center;
+    padding-top: 100px;
+    font: italic 20px comic, sans-serif;
+}
+section{
+    background-color: rgb(0, 158, 206);
+    margin: auto;
+    width: 500px;
+    border-radius: 15px;
+    padding: 15px;
+    border-style: ridge;
+    font-size: 30px;
+}
+
+h1{
+    font: italic 50px comic, sans-serif;
+}
+
+div{
+    padding: 10px;
+}
+
+#resultado{
+    height: 4000px;
+    width: 300px;
+    border: 5px ridge rgb(255, 255, 255);
+    border-radius: 100px;
+    margin: auto;
+}
+
+footer{
+    margin-top: 15px;
+}
